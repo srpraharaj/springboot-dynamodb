@@ -1,0 +1,16 @@
+{
+  "firstName":"Tom",
+  "lastName" : "Cruise",
+  "address": {
+   
+    "addressLine1":"ABC",
+    "addressLine2":"1st Street",
+    "city": "Novato",
+    "state": "CA",
+    "zipCode": "94947"
+  },
+  
+  "age": 19
+}
+  
+  
